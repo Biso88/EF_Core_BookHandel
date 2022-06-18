@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EF_Core_BookHandel.Models.Author">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Core_BookHandel.Models.AuthorsBook">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACABAAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>Models\AuthorsBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Core_BookHandel.Models.Book">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAQAAAAAAAAAAAAAACAAAAAAAAAAAACAAAAg=</HashCode>
+      <FileName>Models\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Core_BookHandel.Models.BookHandelContext">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAQAQAAAAAgAAAAAAkABEAAAAAABAAQAAAAA=</HashCode>
+      <FileName>Models\BookHandelContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Core_BookHandel.Models.Customer">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Core_BookHandel.Models.Order">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgCAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAyAAAAA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Core_BookHandel.Models.Store">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAIAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Core_BookHandel.Models.StoresBalance">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAgSAAAAA=</HashCode>
+      <FileName>Models\StoresBalance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Core_BookHandel.Models.VTittlePerAuthor">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAEAAAAQAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\VTittlePerAuthor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
